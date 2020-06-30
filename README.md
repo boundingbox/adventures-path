@@ -1,6 +1,7 @@
 # Adventures
 
 Adventures is a custom story format for [Twine 2](https://twinery.org) that allows writers to make interactive stories with RPG elements such as health, items, inventory, gold and more.
+This is a fork for modifying the format for personal use in development.
 
 ## Usage
 
