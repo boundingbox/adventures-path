@@ -1,11 +1,11 @@
 # Adventures
 
-Adventures is a custom story format for [Twine 2](https://twinery.org) that allows writers to make interactive stories with RPG elements such as health, items, inventory, gold and more.
-This is a fork for modifying the format for personal use in development.
+Adventures Path is a custom story format for [Twine 2](https://twinery.org) that allows writers to make interactive stories with RPG elements such as health, items, inventory, gold and more.
+This is a fork for modifying the format for personal use in development, since the original is no longer available.
 
 ## Usage
 
-Information about how installing and creating stories in Adventures is [available here](http://longwelwind.github.io/adventures).
+Information about how installing and creating stories in Adventures is [available here](https://web.archive.org/web/20230605010918/http://adventures.longwelwind.net/). (Archived)
 
 ## Development
 
